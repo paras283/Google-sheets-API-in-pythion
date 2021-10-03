@@ -1,4 +1,4 @@
-# Google-sheets-API-in-pythion
+# Google-sheets-API-in-python
 Dynamically import google sheets data in the python program.
 
 Get your own Google API credentials and then import your spreadsheet data dynamically.
